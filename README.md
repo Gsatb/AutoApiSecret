@@ -1,14 +1,1 @@
-# E5自动续期
-
-# 分流页面 ( 请跳转 )
-
-AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~~、~~AutoApiS(v4.0)~~、~~AutoApiP(v5.0)~~、AutoApi(v6.0)
-
-新版本系统 (2021-2-9采用)：
-
-* 以后更新都在AutoApi，采用v0.0版本号进行覆盖式更新
-     * [AutoApi](https://github.com/wangziyingwen/AutoApi) ： 最新版
-     
-* 保留1到2个稳定的简易版，防止萌新大范围报错
-     * [AutoApi'X'](https://github.com/wangziyingwen/AutoApiP) ： 稳定版1
-
+0.AAAAI481vdJWcUONz8sDB_ai3mcxWMWqUtlJsgwaQQV-XSxJAN0.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P-hX9r_kcA3j7_cmn-11SB2yOGZ3rI4R-xTL07t4q7BfXylC1EcpLPfb26vxXcVAAByd9C4SYahzEl9rG9-6hAf0KJRjs4SzJ4almyjr8DKjeLbHI3MqzxWy_PYfb43Be5j2-_t_2dlKHymi-_sZEgsYxsC9SGrJYguD3DxAPYOBYQCOPI8x12L20z32lO_e0Hs6UG17Ufk-1jMvZspJyI3JTYzSOQtTWoLyEE4UoUU5qypHvhzbCN4yYya2q2Vb3GE7tE36dvUb56KgvY0_RoldRdePXof5mCHg6DmjkUA0oOD3p9jnuEy5OwRnePNvPCUZUCiMJTgC4MXDiDF4jZ4I7nm_ZdaO1svW7nRCfJ4oftKWa3nkSAuvK_vaQeps95CNAc0dd3GL301XT5fFBScsdtO5JpKyGA5bgyMlNZB7qxV-PBjOsnY4SSmFbgfBvlikI65X7ObeMhlSnLcBiqNxxF68FWvp-MB8YAbxpEq4d7Wo1X_NNPQ64Osl2UpKSMjNhedYNBDsA1mbAjDX_-4TQwTcz4ofP62vBhYv2whNv4zzmKM0NSymozkI2RTcGiUBNGjRKAvw10pXWwo4_ke4oGlUg7HLElhHxkCklGsoswWJROKL_KhNH027CkgGG3S-gDFgUr5OP20OM7_a-x3PjFkGp-hx_1oza2RX4tCjUOyO5e4p1Y_lNfA4LHyoTNbRGVF8iUiOhwCGczS2Lt6fVdpK-Jjpz2sQunA7M-8rBGskc9mru2itjhVfONSCzEMqARvipOT9cEM7dfNjfzgq_ct9qNUMwabVRkvvGzSI06uR0bPoJmX-V1msFCsQdPUP88E3Y8enDp7q5C9Q1BIcHrSdPXQlbFhbchR7l-Yasm61qhARxqJGn6LLs3Uwg-CEj0TSe7mY-nqvCVRilgi8BNBnrvOYJPgAlD7eQZ-Lq-iYU30pZXDvSNymQ6u1HcySDYl8E5NjRdgNVBWgcdI6Z4awcFKWh-UAsJWUteJ6NnBQS420BaBD7jyGXXwGDwJasAioqw_rbFZXjemULoboKHWe0V8Jzlr5oRMkx2zKOqHcw
